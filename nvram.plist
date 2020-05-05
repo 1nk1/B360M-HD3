@@ -2,17 +2,21 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Clover.KeepBackupLimit</key>
+	<data>
+	MA==
+	</data>
 	<key>Clover.MountEFI</key>
 	<data>
-	MjIxMzI2QTMtNzY2OS00Mzg2LUIwODYtMDZCQkNEMTk0OTJG
+	MkNGMEQwOTEtMDlGRi00Q0M4LUI5NEMtRDVBRUU0QjBCOUUy
 	</data>
-	<key>Clover.RootRW</key>
+	<key>Clover.Theme</key>
 	<data>
-	dHJ1ZQ==
+	Q2hhbWVsaWE=
 	</data>
-	<key>Clover.SoundVolume</key>
+	<key>EFIBluetoothDelay</key>
 	<data>
-	Bw==
+	uAs=
 	</data>
 	<key>EFILoginHiDPI</key>
 	<data>
@@ -24,93 +28,19 @@
 	</data>
 	<key>SystemAudioVolume</key>
 	<data>
-	Ng==
+	PA==
 	</data>
 	<key>SystemAudioVolumeDB</key>
 	<data>
-	9g==
+	/A==
+	</data>
+	<key>bluetoothActiveControllerInfo</key>
+	<data>
+	AQASCgAAAACgFAAafdpxEQ==
 	</data>
 	<key>csr-active-config</key>
 	<data>
 	ZwAAAA==
-	</data>
-	<key>efi-boot-device</key>
-	<data>
-	PGFycmF5PjxkaWN0PjxrZXk+SU9NYXRjaDwva2V5PjxkaWN0PjxrZXk+SU9Qcm92aWRl
-	ckNsYXNzPC9rZXk+PHN0cmluZz5JT01lZGlhPC9zdHJpbmc+PGtleT5JT1Byb3BlcnR5
-	TWF0Y2g8L2tleT48ZGljdD48a2V5PlVVSUQ8L2tleT48c3RyaW5nPkNGQTk1QTFDLUM4
-	RDctNDY0Ri1BRTA0LUQ4QTBFMkIyNDA0RDwvc3RyaW5nPjwvZGljdD48L2RpY3Q+PC9k
-	aWN0PjwvYXJyYXk+
-	</data>
-	<key>efi-boot-device-data</key>
-	<data>
-	AgEMANBBAwoAAAAAAQEGAAAXAxIKAAEA//8AAAQBKgACAAAAKEAGAAAAAABgLWZ0AAAA
-	ABxaqc/XyE9GrgTYoOKyQE0CAgQDJAD3/HS+fAvzSZFHAfQELmhCwEDeV0yrcEmBNNNH
-	fRQhzX//BAA=
-	</data>
-	<key>fakesmc-key-#KEY-ui32</key>
-	<data>
-	AAAAEA==
-	</data>
-	<key>fakesmc-key-$Adr-ui32</key>
-	<data>
-	AAADAA==
-	</data>
-	<key>fakesmc-key-$Num-ui8</key>
-	<data>
-	AQ==
-	</data>
-	<key>fakesmc-key-BATP-flag</key>
-	<data>
-	AA==
-	</data>
-	<key>fakesmc-key-BEMB-flag</key>
-	<data>
-	AA==
-	</data>
-	<key>fakesmc-key-BNum-ui8</key>
-	<data>
-	AA==
-	</data>
-	<key>fakesmc-key-EPCI-ui32</key>
-	<data>
-	CXDwAA==
-	</data>
-	<key>fakesmc-key-MSAc-ui16</key>
-	<data>
-	AAA=
-	</data>
-	<key>fakesmc-key-MSFW-ui8</key>
-	<data>
-	AQA=
-	</data>
-	<key>fakesmc-key-MSPS-ui16</key>
-	<data>
-	AAM=
-	</data>
-	<key>fakesmc-key-MSTc-ui8</key>
-	<data>
-	AA==
-	</data>
-	<key>fakesmc-key-MSWr-ui8</key>
-	<data>
-	AA==
-	</data>
-	<key>fakesmc-key-RBr -ch8*</key>
-	<data>
-	ajEzM180XwA=
-	</data>
-	<key>fakesmc-key-REV -ch8*</key>
-	<data>
-	AkEPAAAC
-	</data>
-	<key>fakesmc-key-RMde-char</key>
-	<data>
-	QQ==
-	</data>
-	<key>fakesmc-key-RPlt-ch8*</key>
-	<data>
-	ajEzNQAAAAA=
 	</data>
 	<key>flagstate</key>
 	<data>
@@ -124,9 +54,13 @@
 	<string>none</string>
 	<key>specialbootdevice</key>
 	<data>
-	AgEMANBBAwoAAAAAAQEGAAAXAxIKAAEA//8AAAQBKgACAAAAKEAGAAAAAABgLWZ0AAAA
-	ABxaqc/XyE9GrgTYoOKyQE0CAgQDJAD3/HS+fAvzSZFHAfQELmhCwEDeV0yrcEmBNNNH
-	fRQhzX//BAA=
+	AgEMANBBAwoAAAAAAQEGAAAXAxIKAAAA//8AAAQBKgACAAAAKEAGAAAAAABgC+8NAAAA
+	AN/Kng4lbrJIgPW+YQddGHsCAgQDJAD3/HS+fAvzSZFHAfQELmhCA69Y9ogjikumjdxW
+	zZaS73//BAA=
+	</data>
+	<key>wake-failure</key>
+	<data>
+	AAAAAAA=
 	</data>
 </dict>
 </plist>
