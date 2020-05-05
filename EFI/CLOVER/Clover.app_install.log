@@ -1,0 +1,40 @@
+
+Clover Installer r5115 (v1.1.2), 2020-04-30 10:35:01
+macOS Version 10.15.3 (Build 19D76)
+SELF = /Applications/Clover.app/Contents/MacOS/CloverDaemonNew
+Backup made at:
+/Users/1nk1/Desktop/CloverBackUp/Apacer AS350 120GB Media/r5114_2020-04-30_10-34-58/EFI.
+Target volume: /Volumes/EFI
+BSD Name:      disk0s1
+Filesystem:    FAT32
+Is internal:   true
+Is writable:   true
+boot2: boot6
+
+Installing/Updating Clover:
++ ../BOOT/BOOTX64.efi
++ ../CLOVER/CLOVERX64.efi
+
+Installing/Updating drivers:
++ ../UEFI/AudioDxe.efi
++ ../UEFI/DataHubDxe.efi
++ ../UEFI/FSInject.efi
++ ../UEFI/ApfsDriverLoader.efi
++ ../UEFI/OsxAptioFix3Drv.efi
++ ../UEFI/EmuVariableUefi.efi
++ ../BIOS/AudioDxe.efi
++ ../BIOS/FSInject.efi
++ ../BIOS/SMCHelper.efi
++ ../BIOS/XhciDxe.efi
++ ../BIOS/ApfsDriverLoader.efi
+
+Installing/Updating tools:
++ ../tools/Shell64.efi
++ ../tools/bdmesg.efi
++ ../tools/Shell64U.efi
++ ../tools/Shell32.efi
+
+Installing/Updating docs:
+
+Installing stage 2..
++ ../EFI/boot
