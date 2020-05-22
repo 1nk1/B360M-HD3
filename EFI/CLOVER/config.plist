@@ -260,6 +260,8 @@
 		<string>_NOT_SHOWN_</string>
 		<key>Arguments</key>
 		<string>uia_exclude=HS02;HS03;HS09;HS10;HS12;HS13;HS14;HS15;SS02;SS03 dart=0 keepsyms=1 -disablegfxfirmware kext-dev-mode=1 -no_compat_check agdpmod=pikera -lilubetaall -liluforce</string>
+		<key>CustomLogo</key>
+		<string>Theme</string>
 		<key>Debug</key>
 		<false/>
 		<key>DisableCloverHotkeys</key>
@@ -451,7 +453,7 @@
 		<key>TextOnly</key>
 		<false/>
 		<key>Theme</key>
-		<string>Emerald</string>
+		<string>BGM</string>
 	</dict>
 	<key>GenTool</key>
 	<string>Clover r5104 by Clover.app v1.16</string>
